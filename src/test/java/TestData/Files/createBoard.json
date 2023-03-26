@@ -1,0 +1,16 @@
+{
+  "name":"Board",
+  "policy":{
+    "permissionsPolicy":{
+      "collaborationToolsStartAccess":"all_editors",
+      "copyAccess":"anyone",
+      "sharingAccess":"team_members_with_editing_rights"
+    },
+    "sharingPolicy":{
+      "access":"edit",
+      "inviteToAccountAndBoardLinkAccess":"no_access",
+      "organizationAccess":"edit",
+      "teamAccess":"edit"
+    }
+  }
+}
